@@ -1,0 +1,4 @@
+node_modules/
+*.key.json
+admin_key.json
+*.log

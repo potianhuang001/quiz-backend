@@ -1,0 +1,8 @@
+{
+  "name": "quiz-redemption",
+  "version": "1.0.0",
+  "private": true,
+  "description": "激活码一销/账号制登记服务（零依赖，tweetnacl 已内置）",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
